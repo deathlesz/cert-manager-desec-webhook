@@ -50,3 +50,5 @@ containerSecurityContext:
     drop:
       - ALL
   readOnlyRootFilesystem: true
+
+extraObjects: []
